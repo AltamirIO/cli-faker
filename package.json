@@ -1,0 +1,9 @@
+{
+  "name": "cli-faker",
+  "version": "1.0.0",
+  "description": "A tiny tool to run cli commands from JS",
+  "main": "index.js",
+  "repository": "git@github.com:AltamirIO/cli-faker.git",
+  "author": "Altamir Consulting <support@altamir.io>",
+  "license": "MIT"
+}
